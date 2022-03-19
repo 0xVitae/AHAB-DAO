@@ -1,4 +1,4 @@
-# AHABDAO Front-end
+# AHAB DAO Front-end
 
 This is the front-end repo that allows user to join my governance protocol.
 
