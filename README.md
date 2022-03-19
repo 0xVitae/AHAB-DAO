@@ -1,6 +1,6 @@
 # AHAB DAO Front-end
 
-This is the front-end repo that allows user to join my governance protocol.
+This is the front-end repo that allows users to check the governance protocol.
 
 ## 🔧 Setting up Local Development
 
