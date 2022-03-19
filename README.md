@@ -3,7 +3,7 @@
 This is the front-end repo that allows users to check the governance protocol. (Built with Buildspace x Thirdweb v1) 
 
  * deployed custom ERC-20 token
- * deployed ERC-1155 NFT people can mint to join your DAO.
+ * deployed ERC-1155 NFT that people can mint to join your DAO.
  * deployed governance contract + treasury.
  * built a dapp that lets people connect their wallet, get an NFT, see a DAO Dashboard where they can see other members + actually vote on proposals that      are executed directly by your governance contract.
 
