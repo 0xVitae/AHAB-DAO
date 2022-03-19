@@ -11,8 +11,8 @@ Required
 * Yarn
 
 ```bash
-$ git clone https://github.com/OlympusDAO/olympusdao.git
-$ cd olympusdao
+$ git clone https://github.com/0xVitae/ahab-dao.git
+$ cd ahab-dao
 
 # set up your environment variables
 # read the comments in the .env files for what is required/optional
