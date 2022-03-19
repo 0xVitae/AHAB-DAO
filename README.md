@@ -7,7 +7,7 @@ This is the front-end repo that allows users to check the governance protocol. (
  * deployed governance contract + treasury.
  * built a dapp that lets people connect their wallet, get an NFT, see a DAO Dashboard where they can see other members + actually vote on proposals that      are executed directly by your governance contract.
 
-<img src="" width=""/>
+<img src="https://github.com/0xVitae/ahab-dao/blob/master/Screen%20Shot%202022-03-19%20at%2011.29.27%20AM.png" width="500"/>
 
 ## 🔧 Setting up Local Development
 
