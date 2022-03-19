@@ -1,6 +1,6 @@
-# 🐋 AHAB DAO Front-end
+# 🐋 AHAB DAO Front-end (Local Development) 
 
-This is the front-end repo that allows users to check the governance protocol.
+This is the front-end repo that allows users to check the governance protocol. (Built with Buildspace x Thirdweb v1) 
 
  * deployed custom ERC-20 token
  * deployed ERC-1155 NFT people can mint to join your DAO.
