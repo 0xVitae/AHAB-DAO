@@ -33,8 +33,9 @@ The site is now running at http://localhost:3000! Open the source code and start
 
 ## Dapp runs on Rinkeby Testnetwork
 
-**Rinkeby faucet for WETH:**
-[Wrap rinkeby eth on rinkeby uniswap](https://app.uniswap.org/#/swap)
+**Rinkeby faucet for ETH:**
+
+[rinkeby eth from alchemy](https://rinkebyfaucet.com/)
 
 ## Architecture/Layout
 
