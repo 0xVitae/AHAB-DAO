@@ -31,7 +31,7 @@ $ npm start
 
 The site is now running at http://localhost:3000! Open the source code and start editing!
 
-## Dapp runs on Rinkeby 
+## Dapp runs on Rinkeby Testnetwork
 
 **Rinkeby faucet for WETH:**
 [Wrap rinkeby eth on rinkeby uniswap](https://app.uniswap.org/#/swap)
