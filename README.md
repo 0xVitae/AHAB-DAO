@@ -1,11 +1,35 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# AHABDAO Front-end
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+This is the front-end repo that allows user to join my governance protocol.
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
+## 🔧 Setting up Local Development
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+Required
+
+* Node v16
+* Git 
+* Yarn
+
+```bash
+$ git clone https://github.com/OlympusDAO/olympusdao.git
+$ cd olympusdao
+
+# set up your environment variables
+# read the comments in the .env files for what is required/optional
+$ cp .env.example .env
+
+# fill in your own values in .env, then =>
+$ npm start
+```
+
+The site is now running at http://localhost:3000! Open the source code and start editing!
+
+## Rinkeby Testing
+
+**Rinkeby faucet for WETH:**
+[Wrap rinkeby eth on rinkeby uniswap](https://app.uniswap.org/#/swap)
+
+## Architecture/Layout
+
+The app is written in [React](https://reactjs.org/)
+
