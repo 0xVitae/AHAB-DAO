@@ -15,7 +15,7 @@ Required
 
 * Node v16
 * Git 
-* Yarn
+
 
 ```bash
 $ git clone https://github.com/0xVitae/ahab-dao.git
@@ -26,6 +26,7 @@ $ cd ahab-dao
 $ cp .env.example .env
 
 # fill in your own values in .env, then =>
+$ npm install
 $ npm start
 ```
 
